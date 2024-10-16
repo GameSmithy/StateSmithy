@@ -1,0 +1,19 @@
+{
+    "name": "gamesmithy.statesmithy.Editor.Tests",
+    "references": [
+        "gamesmithy.statesmithy.Runtime",
+        "gamesmithy.statesmithy.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
