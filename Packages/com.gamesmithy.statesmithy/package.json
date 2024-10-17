@@ -1,6 +1,6 @@
 {
     "name": "com.gamesmithy.statesmithy",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "displayName": "StateSmithy",
     "description": "simple state machine pattern",
     "unity": "2022.1",
