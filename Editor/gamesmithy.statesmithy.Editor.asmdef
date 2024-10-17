@@ -1,0 +1,15 @@
+{
+    "name": "gamesmithy.statesmithy.Editor",
+    "references": [
+        "gamesmithy.statesmithy.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "com.gamesmithy.statesmithy",
+    "version": "1.0.0",
+    "displayName": "StateSmithy",
+    "description": "simple state machine pattern",
+    "unity": "2022.1",
+    "keywords": [
+        "state machine",
+        "state",
+        "mvc"
+    ],
+    "author": {
+        "name": "Dmitry Turovskiy",
+        "email": "3dorange@gmail.com",
+        "url": ""
+    }
+}
